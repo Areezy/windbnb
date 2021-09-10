@@ -5,6 +5,11 @@ An AirBnB clone. Challenge gotten from [devChallenges.](https://devchallenges.io
 - Create React App
 - Tailwind CSS
 
+## Features
+- Responsive Design
+- Dropdown menu
+- Filters based on Location
+
 ## Demo
 - [Demo Here](https://windbnb-areezy.vercel.app/ "https://windbnb-areezy.vercel.app/")
 
