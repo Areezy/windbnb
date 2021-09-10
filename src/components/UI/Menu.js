@@ -61,7 +61,7 @@ export default function Menu() {
         <input
           type="text"
           className="cursor-pointer text-sm focus:outline-none"
-          value="Helsinki, Finland "
+          value="Select number of guests"
           readOnly
         />
       </div>

@@ -38,6 +38,7 @@ export default function Header() {
                 type="text"
                 placeholder="Add guests"
                 className="outline-none w-full"
+                readOnly
               />
             </div>
             <div className="h-full w-80 flex items-center justify-center">
